@@ -1,0 +1,60 @@
+{
+  "fuente": "BROCHURE MGM.pdf",
+  "edicion": "2026",
+  "empresa": {
+    "nombre": "MGM Consultoría y Asesoría Contable",
+    "descripcion": "MGM Consultoría y Asesoría Contable es una firma peruana especializada en servicios contables, tributarios, financieros, laborales y legales para empresas.",
+    "acompanamiento": "Acompañamos a nuestros clientes en la gestión integral de sus obligaciones, fortaleciendo el orden contable, el cumplimiento normativo, el control financiero y la toma de decisiones empresariales.",
+    "enfoque": "Nuestro enfoque combina experiencia profesional, análisis técnico y visión de negocio.",
+    "propuesta": "En MGM acompañamos a las empresas en la gestión integral de su información contable, tributaria y financiera, con enfoque preventivo, técnico y estratégico.",
+    "resultado": "Nuestro trabajo permite identificar riesgos, fortalecer controles, ordenar procesos y convertir la información financiera en una herramienta para la toma de decisiones.",
+    "mensaje": "Soluciones profesionales para empresas que buscan orden, control y crecimiento.",
+    "cierre": "En MGM acompañamos a nuestros clientes con una visión integral de negocio, combinando experiencia contable, tributaria, financiera, laboral y legal.",
+    "evaluacion": "Solicite una evaluación inicial para identificar oportunidades de mejora y fortalecer la gestión de su empresa.",
+    "sectores": "Acompañamos a empresas de diversos sectores con soluciones contables, tributarias, financieras, laborales y de consultoría empresarial.",
+    "web": "https://www.mgmperu.com/",
+    "email": "rmartinez@mgmperu.com",
+    "telefono": "+51 982 617 971"
+  },
+  "pilares": [
+    {"icon":"shield","titulo":"Cumplimiento","texto":"Gestión alineada a obligaciones contables, tributarias, laborales y legales."},
+    {"icon":"account","titulo":"Control","texto":"Orden documental, procesos internos y reportes confiables para la gerencia."},
+    {"icon":"bulb","titulo":"Decisión","texto":"Información financiera transformada en análisis útil para el negocio."}
+  ],
+  "diferenciales": [
+    {"icon":"shield","titulo":"Enfoque preventivo","texto":"Identificación temprana de riesgos contables, tributarios, laborales y financieros."},
+    {"icon":"eye","titulo":"Visión integral","texto":"Análisis conectado entre contabilidad, impuestos, tesorería, planillas y gestión empresarial."},
+    {"icon":"company","titulo":"Experiencia corporativa","texto":"Conocimiento práctico en empresas nacionales, multinacionales y sectores regulados."},
+    {"icon":"account","titulo":"Información para gerencia","texto":"Reportes y conclusiones orientadas a la toma de decisiones, no solo al cumplimiento formal."}
+  ],
+  "servicios": [
+    {"slug":"gestion-contable","name":"Gestión contable","icon":"account","label":"CONTABILIDAD","summary":"Registro, control y análisis de la información contable de tu empresa.","headline":"Información contable para dirigir tu empresa.","intro":"Servicio orientado al registro, control y análisis de la información contable de la empresa.","objective":"Brindar información contable ordenada, confiable y útil para la gestión empresarial.","includes":["Contabilidad mensual.","Libros contables.","Estados financieros.","Reportes gerenciales.","Revisión de cuentas contables.","Control documentario.","Soporte contable."],"image":"brochure-servicio-contable.jpg","pagina":5},
+    {"slug":"asesoria-y-auditoria-tributaria","name":"Asesoría tributaria","icon":"tax","label":"TRIBUTACIÓN","summary":"Cumplimiento tributario, prevención de contingencias y atención ante SUNAT.","headline":"Cumplimiento fiscal con enfoque preventivo.","intro":"Servicio especializado en cumplimiento tributario, prevención de contingencias y atención de procedimientos ante SUNAT.","objective":"Reducir riesgos tributarios y fortalecer el cumplimiento fiscal de la empresa.","includes":["Declaraciones mensuales.","Revisión de IGV y renta.","Planeamiento tributario.","Detracciones, retenciones y percepciones.","Atención de cartas inductivas, esquelas y fiscalizaciones.","Informes tributarios especializados."],"image":"brochure-servicio-tributario.jpg","pagina":5},
+    {"slug":"auditoria-tributaria","name":"Auditoría tributaria","icon":"shield","label":"AUDITORÍA TRIBUTARIA","summary":"Revisión de obligaciones para identificar riesgos, omisiones y oportunidades de mejora.","headline":"Identificamos riesgos antes de que se conviertan en contingencias.","intro":"Evaluamos el cumplimiento tributario de la empresa para identificar riesgos, omisiones, inconsistencias y oportunidades de mejora.","objective":"Prevenir contingencias tributarias y fortalecer la posición fiscal de la empresa.","includes":["Revisión de declaraciones tributarias.","Validación de IGV, renta y pagos a cuenta.","Revisión de libros electrónicos y SIRE.","Análisis de contingencias SUNAT.","Evaluación de detracciones, retenciones y percepciones.","Informe de hallazgos y recomendaciones."],"image":"brochure-servicio-auditoria-tributaria.jpg","pagina":6},
+    {"slug":"auditoria-financiera-y-contable","name":"Auditoría financiera y contable","icon":"account","label":"AUDITORÍA FINANCIERA","summary":"Revisión de la información financiera y de la consistencia de los registros contables.","headline":"Mayor confianza en la información de tu empresa.","intro":"Revisamos la razonabilidad de la información financiera y la consistencia de los registros contables.","objective":"Brindar mayor confiabilidad sobre la información financiera para la toma de decisiones.","includes":["Revisión de estados financieros.","Análisis de cuentas contables.","Evaluación de saldos patrimoniales.","Revisión de ingresos, costos y gastos.","Identificación de ajustes contables.","Informe financiero con observaciones y recomendaciones."],"image":"brochure-servicio-auditoria-financiera.jpg","pagina":6},
+    {"slug":"gestion-de-nominas","name":"Gestión laboral y planillas","icon":"payroll","label":"GESTIÓN LABORAL","summary":"Administración de obligaciones laborales y previsionales con orden y precisión.","headline":"Planillas y obligaciones laborales en orden.","intro":"Servicio enfocado en la administración de obligaciones laborales y previsionales.","objective":"Asegurar una gestión laboral ordenada, precisa y conforme a la normativa vigente.","includes":["Cálculo de planillas.","PLAME y T-Registro.","CTS, gratificaciones y vacaciones.","Liquidación de beneficios sociales.","Revisión de obligaciones laborales.","Soporte ante contingencias laborales."],"image":"brochure-servicio-laboral.jpg","pagina":7},
+    {"slug":"consultoria-financiera","name":"Consultoría financiera","icon":"bulb","label":"FINANZAS Y GESTIÓN","summary":"Análisis financiero, control de gestión y mejora de la rentabilidad empresarial.","headline":"Tus finanzas, al servicio de mejores decisiones.","intro":"Servicio orientado al análisis financiero, control de gestión y mejora de la rentabilidad empresarial.","objective":"Transformar la información financiera en decisiones estratégicas para el negocio.","includes":["Análisis financiero.","Flujo de caja.","Presupuestos.","Control de costos y gastos.","Indicadores de gestión.","Reportes para gerencia."],"image":"brochure-servicio-financiero.jpg","pagina":7},
+    {"slug":"asesoria-legal","name":"Asesoría legal empresarial","icon":"legal","label":"RESPALDO LEGAL","summary":"Soporte legal para la gestión societaria, contractual y administrativa de la empresa.","headline":"Respaldo legal para tus decisiones empresariales.","intro":"Servicio de soporte legal para la gestión societaria, contractual y administrativa de la empresa.","objective":"Brindar respaldo legal en las principales decisiones empresariales.","includes":["Revisión de contratos.","Poderes y documentos societarios.","Informes legales.","Trámites empresariales.","Soporte en procedimientos administrativos."],"image":"brochure-servicio-legal.jpg","pagina":8},
+    {"slug":"creacion-de-empresa-ruc-20","name":"Constitución y formalización de empresas","icon":"company","label":"EMPRENDIMIENTO","summary":"Acompañamiento para iniciar operaciones de manera formal y estructurada.","headline":"Una estructura sólida para empezar tu empresa.","intro":"Servicio dirigido a emprendedores y empresas que desean iniciar operaciones de manera formal y estructurada.","objective":"Iniciar operaciones con una estructura legal, tributaria y contable adecuada.","includes":["Elección del tipo societario.","Constitución de empresa.","Inscripción registral.","Activación tributaria.","Asesoría inicial contable.","Asesoría inicial tributaria."],"image":"brochure-servicio-empresa.jpg","pagina":8}
+  ],
+  "tecnologia": {
+    "descripcion":"Integramos experiencia contable, tributaria y financiera con soluciones tecnológicas para optimizar procesos, mejorar el control y fortalecer la gestión empresarial.",
+    "acompanamiento":"Acompañamos a nuestros clientes en la adopción, parametrización y mejora funcional de plataformas como Odoo y Buk, alineando la tecnología con las necesidades reales del negocio.",
+    "objetivo":"Conectar la estrategia contable, tributaria y laboral con herramientas digitales que permitan eficiencia operativa, trazabilidad y mejor información para la gerencia.",
+    "plataformas":[
+      {"id":"odoo","name":"Odoo","logo":"plataforma-odoo.png","intro":"Consultoría funcional ERP para integrar contabilidad, ventas, compras, inventarios, facturación y reportes de gestión.","includes":["Parametrización funcional.","Flujos contables y operativos.","Reportes y control de procesos."]},
+      {"id":"buk","name":"Buk","logo":"plataforma-buk.png","intro":"Soporte funcional para una gestión moderna de planillas, personas, documentos laborales y procesos de recursos humanos.","includes":["Gestión de nómina y RR.HH.","Documentos y procesos laborales.","Información laboral para la gestión."]}
+    ]
+  },
+  "clientes": [
+    {"id":"empresa-01","name":"AE","logo":"cliente-ae.png","review":null},
+    {"id":"empresa-02","name":"Your Goal","logo":"cliente-your-goal.png","review":null},
+    {"id":"empresa-03","name":"Innoteam","logo":"cliente-innoteam.png","review":null},
+    {"id":"empresa-04","name":"Qummar Agropecuaria","logo":"cliente-qummar.png","review":null},
+    {"id":"empresa-05","name":"Zhou Tang Export Ocean S.A.C.","logo":"cliente-zhou-tang.png","review":null},
+    {"id":"empresa-06","name":"Grupo 2B","logo":"cliente-grupo-2b.png","review":null},
+    {"id":"empresa-07","name":"Metropolis Corporación Inmobiliaria","logo":"cliente-metropolis.png","review":null},
+    {"id":"empresa-08","name":"Trauma Medical","logo":"cliente-trauma-medical.png","review":null},
+    {"id":"empresa-09","name":"Avícola Stobelpa","logo":"cliente-stobelpa.png","review":null}
+  ]
+}

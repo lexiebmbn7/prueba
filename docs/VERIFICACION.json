@@ -1,0 +1,158 @@
+{
+  "paginas": 14,
+  "verificaciones": [
+    {
+      "page": "index.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "nosotros.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "servicios.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "resenas.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "contacto.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "agenda.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "servicios/asesoria-legal.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "servicios/asesoria-y-auditoria-tributaria.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "servicios/auditoria-financiera-y-contable.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "servicios/auditoria-tributaria.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "servicios/consultoria-financiera.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "servicios/creacion-de-empresa-ruc-20.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "servicios/gestion-contable.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "servicios/gestion-de-nominas.html",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "index.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "nosotros.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "servicios.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "resenas.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "contacto.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "agenda.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "servicios/asesoria-legal.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "servicios/asesoria-y-auditoria-tributaria.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "servicios/auditoria-financiera-y-contable.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "servicios/auditoria-tributaria.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "servicios/consultoria-financiera.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "servicios/creacion-de-empresa-ruc-20.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "servicios/gestion-contable.html",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "servicios/gestion-de-nominas.html",
+      "width": 390,
+      "passed": true
+    }
+  ],
+  "recursos_faltantes": [],
+  "errores_javascript": [],
+  "ruta_de_prueba": "/mi-repositorio/",
+  "carruseles": true,
+  "perfiles": true,
+  "resenas": true,
+  "formularios_whatsapp": true,
+  "menu_movil": true,
+  "css_y_js_separados": true,
+  "publicado_en_github": false,
+  "banners_paginas_interiores": 0,
+  "presentacion_nosotros_segun_referencia": true,
+  "inicio_conserva_presentacion_principal": true
+}

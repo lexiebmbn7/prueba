@@ -1,0 +1,28 @@
+MGM PERÚ — SUBIDA A GITHUB
+
+1. Extrae este ZIP en tu computadora.
+2. Abre tu repositorio de GitHub.
+3. Elige Add file > Upload files.
+4. Arrastra todos los archivos y carpetas que están junto a este TXT.
+5. index.html debe quedar en la primera pantalla del repositorio, junto a assets.
+6. Conserva la estructura de las carpetas; no cambies los nombres al subirlas.
+7. Guarda los cambios. Si GitHub solicita un pull request, complétalo para que
+   los archivos queden en la rama desde la que quieres publicar.
+
+PARA VER LA PÁGINA EN INTERNET
+Settings > Pages > Build and deployment > Source: Deploy from a branch.
+Selecciona la rama donde subiste el código (normalmente main) y /(root).
+Pulsa Save y espera a que GitHub muestre la dirección publicada.
+
+PARA PROBARLA EN TU COMPUTADORA
+Abre index.html con Chrome, Edge o Firefox.
+
+QUÉ EDITAR
+HTML de cada página: textos, contenido y enlaces.
+assets/css/estilos.css: diseño y colores.
+assets/js/config.js: teléfono de WhatsApp y campañas.
+assets/js/app.js: interacciones.
+assets/img: fotografías y logos, agrupados por uso.
+
+La carpeta servicios contiene las cinco páginas de detalle.
+Las instrucciones completas están en README.md y docs/.
